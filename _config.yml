@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: [Calculating Water Affinities in Protein Binding Sites with Grand Canonical Monte Carlo and ProtoMS]
 description: [CCP-BioSim Workshop]
+markdown: kramdown
+kramdown:
+ input: GFM
+ gfm_quirks: [no_auto_typographic]

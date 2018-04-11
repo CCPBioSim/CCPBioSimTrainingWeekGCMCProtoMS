@@ -24,5 +24,5 @@ notebooks there.
 
 ## Contents
 
-Something...
+Start the workshop [here](workshop_pages/plan.md)
 
